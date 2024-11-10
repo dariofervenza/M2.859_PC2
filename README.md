@@ -12,7 +12,7 @@ La primera vez que se ha usado este término fue en el siglo XIX, por el ingenie
 
 ## Ejemplos de aplicación
 
-- Representación de la población en diferentes del mundo
+- Representación de la población en diferentes paises del mundo
 - Visualizacones del avance de una enfermedad a través de diferentes áreas
 - Representación de la calidad del aire en diferentes barrios de una ciudad
 
