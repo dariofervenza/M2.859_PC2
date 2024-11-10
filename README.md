@@ -29,7 +29,7 @@ En cuanto a datos, no existe un límite como tal, se podría representar desde m
 
 ## Resultado
 
-![Imagen cartograma](https://github.com/dariofervenza/M2.859_PC2/blob/main/images/mapa_eeuu.png?raw=true)
+![Imagen cartograma](https://github.com/dariofervenza/M2.859_PC2/blob/main/images/mapa_eeuu_bueno.png?raw=true)
 
 ### Objetivo y resultados de la técnica
 
