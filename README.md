@@ -95,7 +95,7 @@ Requiere tres **variables numéricas continuas** (X, Y y Z), entre las cuales un
 
 ## Limitaciones
 
-La principal limitación se produce cuando el valor de Z varía mucho con pequeños cambios en X o en Y y por tanto es necesario incrementar el número de líneas. Esto puede **dificultar la interpetación** del gráfico y reducir su eficacia.
+La principal limitación se produce cuando el valor de Z varía mucho con pequeños cambios en X o en Y y por tanto es necesario incrementar el número de líneas. Esto puede **dificultar la interpretación** del gráfico y reducir su eficacia.
 
 ## Resultado
 
