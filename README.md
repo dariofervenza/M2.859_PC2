@@ -4,7 +4,7 @@ Alumno: `Darío Fervenza García`
 
 # Cartograma
 
-El cartograma es un mapa temático en el que una variable, por ejemplo, la tasa de mortalidad, es representada en diferentes regiones mediante el uso uso de colores.
+El cartograma es un mapa temático en el que una variable, por ejemplo, la tasa de mortalidad, es representada en diferentes regiones mediante el uso de colores.
 
 ## Origen
 
@@ -21,7 +21,7 @@ La primera vez que se ha usado este término fue en el siglo XIX, por el ingenie
 El cartograma suele representar una variable cuantitativa continua, aunque también se puede adaptar para el caso discreto. Esta variable debe ir acompañada de otra que asocie cada dato numérico a una región del mapa. Por tanto, se necesita una variable númerica y una categórica (por ejemplo España - 16.9).
 Además, es necesario traducir la variable categórica a las coordenadas que delimitan la ubicación de la zona geográfica a representar en el mapa.
 
-# Limitaciones
+## Limitaciones
 
 La principal limitación es que no se puede saber el valor exacto que se está representando, aunque si las regiones a representar son lo suficientemente grande, se pueden añadir etiquetas númericas.
 
@@ -55,7 +55,7 @@ El término "gauge" hace referencia a la palabra "gaugen" la cual significa medi
 
 Estas representaciones requieren una variable numérica continua que a menudo es acompañada con sus límites aceptables o marcas de valores clave. Por ejuemplo, en un medidor de presión o caudal, se suele indicar la zona segura de trabajo y la zona en la que el valor comienza a ser peligroso.
 
-# Limitaciones
+## Limitaciones
 
 La principal limitación es la gran cantidad de espacio que necesita para representar un único valor. Por tanto cuando se desean observar varios indicadores puede no ser la mejor opción. Además, en ocasiones es complicado saber el valor exacto que se está representando, por lo cual puede ser necesario añadir anotaciones.
 
@@ -91,6 +91,9 @@ Estas representaciones han sido utilizadas históricamente para representar zona
 
 Requiere tres variables numéricas continuas (X, Y y Z), entre las cuales una es la variable dependiente (Z) y otras dos son variables independientes. Por tanto, el valor de Z dependerá de los valores de las otras dos variables.
 
+## Limitaciones
+
+La principal limitación se produce cuando el valor de Z varía mucho con pequeños cambios en X o en Y y por tanto es necesario incrementar el número de líneas. Esto puede dificultar la interpetación del gráfico y reducir su eficacia.
 
 ## Resultado
 
